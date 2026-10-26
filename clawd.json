@@ -1,0 +1,27 @@
+{
+  "standbyOnStartup": true,
+  "monitor": "\\\\.\\DISPLAY2",
+  "color": "Coral",
+  "size": 44,
+  "walkSpeed": 1.0,
+  "gravity": 1.0,
+  "idleSecondsMin": 5,
+  "idleSecondsMax": 10,
+  "blinkSecondsMin": 2.5,
+  "blinkSecondsMax": 5.5,
+  "features": {
+    "eyeTracking": true,
+    "windowPlatforms": true,
+    "typingReaction": true,
+    "edgeLurking": false,
+    "systemAwareness": true,
+    "climbing": true,
+    "mischief": true,
+    "claudeWatch": true,
+    "codexWatch": true
+  },
+  "terminal": {
+    "command": "clawd --hello",
+    "output": "Hello, World!"
+  }
+}

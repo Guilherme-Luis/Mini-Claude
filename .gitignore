@@ -1,0 +1,7 @@
+# Windows junk
+Thumbs.db
+desktop.ini
+
+# Build output (build.ps1)
+build/
+dist/
