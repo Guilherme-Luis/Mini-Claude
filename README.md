@@ -1,4 +1,4 @@
-# Mini-Claude — Clawd Pet 🦀
+# Mini-Claude — Clawd Pet
 
 Um mascote de desktop para Windows: o **Clawd**, o caranguejo do Claude, vive na sua tela, sempre por cima das outras janelas. Ele anda, dorme, dança, segue o cursor com os olhos e, se você quiser, reage em tempo real ao que o **Claude Code** (ou o **Codex**) está fazendo no seu terminal.
 
@@ -14,7 +14,7 @@ Feito inteiramente com o que já vem no Windows: PowerShell 5.1, WinForms e o co
 | Arrastar com o mouse | Fica pendurado na garra, balança e entra em **pânico** (olhos arregalados, suor) |
 | Soltar | Cai, amassa e pula de alegria |
 | Sozinho | Dança, pausa pro café, pensa, se espreguiça, espirra, tira cochilos (Zz…) |
-| Claude/Codex trabalhando | Pensando → nuvem de pensamento; lendo → lupa; editando/rodando → trabalhando/cozinhando; terminou → confete 🎉 |
+| Claude/Codex trabalhando | Pensando → nuvem de pensamento; lendo → lupa; editando/rodando → trabalhando/cozinhando; terminou → confete |
 | Clique direito | Menu com todas as animações e opção de sair |
 | Ícone na bandeja | Stand-by / acordar, animações, cor, tamanho, som, iniciar com o Windows |
 
